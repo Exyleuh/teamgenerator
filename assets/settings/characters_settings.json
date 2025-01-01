@@ -84,7 +84,7 @@
         "attribute": "hp"
     },
     {
-        "name": "Baldr God of Light [Hideen Glimmer]",
+        "name": "Baldr God of Light [Hidden Glimmer]",
         "images": "./assets/images/[Hidden Glimmer] God of Light Baldr.png",
         "grade": "ssr",
         "race": "unknown",
@@ -208,7 +208,7 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "speed"
-    },
+    },    
     {
         "name": "Camila Guardian Deity [Hybrid Instinct]",
         "images": "./assets/images/[Hybrid Instinct] Guardian Deity Camila.png",
@@ -217,18 +217,11 @@
         "attribute": "hp"
     },
     {
-        "name": "Chandler Magician [Pacifier Fiend]",
+        "name": "Chandler Mage [Pacifier Fiend]",
         "images": "./assets/images/[Pacifier Fiend] Magician Chandler.png",
         "grade": "ssr",
         "race": "demon",
         "attribute": "speed"
-    },
-    {
-        "name": "Highest-Ranking Demon Chandler [Origin Fragment]",
-        "images": "./assets/images/[Origin Fragment] Highest-Ranking Demon Chandler.png",
-        "grade": "ssr",
-        "race": "demon",
-        "attribute": "hp"
     },
     {
         "name": "Chandler Mage [Ancient Demon]",
@@ -236,6 +229,13 @@
         "grade": "ssr",
         "race": "demon",
         "attribute": "strength"
+    },
+    {
+        "name": "Highest-Ranking Demon Chandler [Origin Fragment]",
+        "images": "./assets/images/[Origin Fragment] Highest-Ranking Demon Chandler.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "hp"
     },
     {
         "name": "Cocytus [Guardian of the Glacier]",
@@ -259,6 +259,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Data Zahard [Secret Floor]",
+        "images": "./assets/images/[Secret Floor] Data Zahard.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Deathpierce Holy Knight [The Pleiades of the Azure Sky]",
         "images": "./assets/images/[The Pleiades of the Azure Sky] Holy Knight Deathpierce.png",
         "grade": "ssr",
@@ -266,8 +273,8 @@
         "attribute": "hp"
     },
     {
-        "name": "Demiurge [Creator of the Blazing Inferno]",
-        "images": "./assets/images/[Creator of the Blazing Inferno] Demiurge.png",
+        "name": "Demiurge [Creator of the Hellfire Prison]",
+        "images": "./assets/images/[Creator of the Hellfire Prison] Demiurge.png",
         "grade": "ssr",
         "race": "unknown",
         "attribute": "strength"
@@ -525,13 +532,6 @@
         "attribute": "speed"
     },
     {
-        "name": "Elizabeth & Meliodas [Light of the Holy War]",
-        "images": "./assets/images/[Light of the Holy War] Elizabeth & Meliodas.png",
-        "grade": "ur",
-        "race": "goddess-demon",
-        "attribute": "light"
-    },
-    {
         "name": "Elizabeth Princess [Liones]",
         "images": "./assets/images/[Liones] Princess Elizabeth.png",
         "grade": "ssr",
@@ -672,18 +672,18 @@
         "attribute": "strength"
     },
     {
-        "name": "Escanor The Indomitable [Eternal Sun]",
-        "images": "./assets/images/[Eternal Sun] Escanor The Indomitable.png",
-        "grade": "ur",
-        "race": "human",
-        "attribute": "hp"
-    },
-    {
         "name": "Escanor Ultimate [Flame of Life]",
         "images": "./assets/images/[Flame of Life] Ultimate Escanor.png",
         "grade": "ssr",
         "race": "human",
         "attribute": "light"
+    },
+    {
+        "name": "Escanor The Indomitable [Eternal Sun]",
+        "images": "./assets/images/[Eternal Sun] Escanor the Indomitable.png",
+        "grade": "ur",
+        "race": "human",
+        "attribute": "hp"
     },
     {
         "name": "Escanor The One [Invincible Avatar]",
@@ -803,13 +803,6 @@
         "grade": "ssr",
         "race": "demon",
         "attribute": "strength"
-    },
-    {
-        "name": "Gamma Narberal [Pleiades]",
-        "images": "./assets/images/[Pleiades] Narberal Gamma.png",
-        "grade": "ssr",
-        "race": "unknown",
-        "attribute": "speed"
     },
     {
         "name": "Gelda Vampire [Undying Love]",
@@ -1113,14 +1106,7 @@
         "attribute": "speed"
     },
     {
-        "name": "Jenna Lead Vocalist [MAVE]",
-        "images": "./assets/images/[MAVE] Lead Vocalist Jenna.png",
-        "grade": "ssr",
-        "race": "human",
-        "attribute": "speed"
-    },
-    {
-        "name": "Guardian Jericho [Knight of Frost]",
+        "name": "Jericho Guardian [Knight of Frost]",
         "images": "./assets/images/[Knight of Frost] Guardian_Jericho.png",
         "grade": "ssr",
         "race": "human",
@@ -1267,6 +1253,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Lancelot Young Knight [Hero's Bloodline]",
+        "images": "./assets/images/[Hero's Bloodline] Young Knight Lancelot.png",
+        "grade": "ur",
+        "race": "human-fairy",
+        "attribute": "speed"
+    },
+    {
         "name": "Iori Yagami [KOF '98]",
         "images": "./assets/images/[KOF '98] Iori Yagami.png",
         "grade": "ssr",
@@ -1279,13 +1272,6 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "strength"
-    },
-    {
-        "name": "Lancelot Young Knight [Hero's Bloodline]",
-        "images": "./assets/images/[Hero's Bloodline] Young Knight Lancelot.png",
-        "grade": "ur",
-        "race": "human-fairy",
-        "attribute": "speed"
     },
     {
         "name": "Levi [Greatest Soldier]",
@@ -1589,7 +1575,14 @@
         "attribute": "hp"
     },
     {
-        "name": "Merlin Infinity Mage [The Last Sage]",
+        "name": "Merlin Mage of Infinity [Ocean Seeker]",
+        "images": "./assets/images/[Ocean Seeker] Mage of Infinity Merlin.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "speed"
+    },
+    {
+        "name": "Merlin Mage of Infinity [The Last Sage]",
         "images": "./assets/images/[The Last Sage] Infinity Mage Merlin.png",
         "grade": "ssr",
         "race": "unknown",
@@ -1603,11 +1596,11 @@
         "attribute": "strength"
     },
     {
-        "name": "Merlin Mage of Infinity [Ocean Seeker]",
-        "images": "./assets/images/[Ocean Seeker] Mage of Infinity Merlin.png",
+        "name": "Migurdia Roxxy [King-Class Water Mage]",
+        "images": "./assets/images/[King-Class Water Mage] Roxy Migurdia.png",
         "grade": "ssr",
         "race": "unknown",
-        "attribute": "speed"
+        "attribute": "hp"
     },
     {
         "name": "Mikasa Ackermann [Greatest Soldier]",
@@ -1615,7 +1608,6 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "speed"
-
     },
     {
         "name": "Mike Wheelers [Stranger Things]",
@@ -1623,7 +1615,6 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "strength"
-
     },
     {
         "name": "Milim Nava [Tyrant of Destruction]",
@@ -1696,11 +1687,11 @@
         "attribute": "speed"
     },
     {
-        "name": "Nasiens Herbalist [Venom Mixing]",
-        "images": "./assets/images/[Venom Mixing] Herbalist Nasiens.png",
+        "name": "Narberal Gamma [Pleiades]",
+        "images": "./assets/images/[Pleiades] Narberal Gamma.png",
         "grade": "ssr",
-        "race": "human",
-        "attribute": "hp"
+        "race": "unknown",
+        "attribute": "speed"
     },
     {
         "name": "Percival Boy of Hope [A New Adventure]",
@@ -1710,8 +1701,8 @@
         "attribute": "hp"
     },
     {
-        "name": "Percival Little Hero [Unknown Power]",
-        "images": "./assets/images/[Unknown Power] Little Hero Percival.png",
+        "name": "Percival Small Hero [Unknown Magic]",
+        "images": "./assets/images/[Unknown Magic] Small Hero Percival.png",
         "grade": "ssr",
         "race": "human",
         "attribute": "light"
@@ -1801,13 +1792,6 @@
         "attribute": "strength"
     },
     {
-        "name": "Roxy Migurdia [King-Class Water Mage]",
-        "images": "./assets/images/[King-Class Water Mage] Roxy Migurdia.png",
-        "grade": "ssr",
-        "race": "unknown",
-        "attribute": "hp"
-    },
-    {
         "name": "Rudeus Greyrat [Otherworldly Reincarnation]",
         "images": "./assets/images/[Otherworldly Reincarnation] Rudeus Greyrat.png",
         "grade": "ssr",
@@ -1855,6 +1839,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "strength"
+    },    
+    {
+        "name": "Shion [Demon Lord's Secretary]",
+        "images": "./assets/images/[Demon Lord's Secretary] Shion.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
     },
     {
         "name": "Shin Gamer [Halloween]",
@@ -1876,13 +1867,6 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "speed"
-    },
-    {
-        "name": "Shion [Demon Lord's Secretary]",
-        "images": "./assets/images/[Demon Lord's Secretary] Shion.png",
-        "grade": "ssr",
-        "race": "unknown",
-        "attribute": "hp"
     },
     {
         "name": "Shuna [Oni]",
@@ -1913,15 +1897,15 @@
         "attribute": "strength"
     },
     {
-        "name": "Skadi Titan [Hunter of Severe Cold]",
+        "name": "Skadi Giant [Hunter of Severe Cold]",
         "images": "./assets/images/[Hunter of Severe Cold] Titan Skadi.png",
         "grade": "ssr",
         "race": "giant",
         "attribute": "strength"
     },
     {
-        "name": "Skadi [The Hunter]",
-        "images": "./assets/images/[The Hunter] Skadi.png",
+        "name": "Skadi Giant [The Hunter]",
+        "images": "./assets/images/[The Hunter] Giant Skadi.png",
         "grade": "ssr",
         "race": "giant",
         "attribute": "speed"
@@ -1990,8 +1974,8 @@
         "attribute": "strength"
     },
     {
-        "name": "Thor the God of Thunder [Hammer of Justice]",
-        "images": "./assets/images/[Hammer of Justice] Thor the God of Thunder.png",
+        "name": "Thor God of Thunder [Hammer of Justice]",
+        "images": "./assets/images/[Hammer of Justice] God of Thunder Thor.png",
         "grade": "ur",
         "race": "unknown",
         "attribute": "speed"
@@ -2067,6 +2051,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Wild Warrior of Purgatory [Proud Spirit]",
+        "images": "./assets/images/[Proud Spirit] Warrior of Purgatory Wild.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Weinheidt Holy Knight [Roars of Dawn]",
         "images": "./assets/images/[Roars of Dawn] Holy Knight Weinheidt.png",
         "grade": "sr",
@@ -2093,13 +2084,6 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "hp"
-    },
-    {
-        "name": "Zaneri Druid [Holiday Diviner]",
-        "images": "./assets/images/[Holiday Diviner] Druid Zaneri.png",
-        "grade": "ssr",
-        "race": "human",
-        "attribute": "speed"
     },
     {
         "name": "Zaratras Grandmaster [Reincarnation of Conviction]",
@@ -2134,6 +2118,13 @@
         "images": "./assets/images/[Ominus Nebula] Prince of Darkness Zeldris.png",
         "grade": "ssr",
         "race": "demon",
+        "attribute": "speed"
+    },
+    {
+        "name": "Zena Lead Vocalist [MAVE]",
+        "images": "./assets/images/[MAVE] Lead Vocalist Jenna.png",
+        "grade": "ssr",
+        "race": "unknown",
         "attribute": "speed"
     }
 ]
