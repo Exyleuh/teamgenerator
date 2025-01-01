@@ -6,13 +6,6 @@
         "race": "unknown",
         "attribute": "speed"
     },
-        {
-        "name": "TEST",
-        "images": "./assets/images/test.png",
-        "grade": "ssr",
-        "race": "unknown",
-        "attribute": "speed"
-    },
     {
         "name": "Albedo [Pure-White Devil]",
         "images": "./assets/images/[Pure-White Devil] Albedo.png",
