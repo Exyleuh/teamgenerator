@@ -1,6 +1,6 @@
 [
     {
-        "name": "Ainz Ooal Gown [Master]",
+        "name": "Ainz Ooal Gown [Ruler of Nazarick]",
         "images": "./assets/images/[Ruler of Nazarick] Ainz Ooal Gown.png",
         "grade": "ssr",
         "race": "unknown",
@@ -70,7 +70,7 @@
         "attribute": "speed"
     },
     {
-        "name": "Arthur Chaos [Broken]",
+        "name": "Arthur Chaos [Broken Balance]",
         "images": "./assets/images/[Broken Balance] Chaos Arthur.png",
         "grade": "ur",
         "race": "human",
