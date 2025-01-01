@@ -1,6 +1,12 @@
 {
-  "name": "teamgenerator",
-  "lockfileVersion": 3,
-  "requires": true,
-  "packages": {}
+  "name": "sdsrandomizer",
+  "version": "1.0.0",
+  "main": "main.d068854f2347d4df.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
