@@ -21,6 +21,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Anghalhad Brave Girl [A New Adventure]",
+        "images": "./assets/images/[A New Adventure] Brave Girl Anghalhad.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
+    },
+    {
         "name": "Arden Holy Knight [The Pleiades of the Azure Sky]",
         "images": "./assets/images/[The Pleiades of the Azure Sky] Holy Knight Arden.png",
         "grade": "sr",
@@ -1022,6 +1029,13 @@
         "attribute": "darkness"
     },
     {
+        "name": "Hel Repose of Soul [Principled Perfect]",
+        "images": "./assets/images/[Principled Perfect] Repose of Soul Hel.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Helbram Fairy [Forest Guardian]",
         "images": "./assets/images/[Forest Guardian] Fairy Helbram.png",
         "grade": "ssr",
@@ -1174,6 +1188,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "hp"
+    },
+    {
+        "name": "Jormungandr World Serpent [Sweet Temptation]",
+        "images": "./assets/images/[Sweet Temptation] World Serpent Jormungandr.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "strength"
     },
     {
         "name": "Jude Holy Knight [Weird Fangs]",
@@ -1384,6 +1405,13 @@
         "grade": "ssr",
         "race": "goddess",
         "attribute": "light"
+    },
+    {
+        "name": "Mael Angel of Despair [Blackened Wings]",
+        "images": "./assets/images/[Blackened Wings] Angel of Despair Mael.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "darkness"
     },
     {
         "name": "Mai Shiranui [KOF '98]",
@@ -1850,6 +1878,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Sariel Covenant of Light [Winds of Hope]",
+        "images": "./assets/images/[Winds of Hope] Covenant of Light Sariel.png",
+        "grade": "ssr",
+        "race": "goddess",
+        "attribute": "strength"
+    },
+    {
         "name": "Shalltear Bloodfallen [Bloodie Valkyrie]",
         "images": "./assets/images/[Bloodie Valkyrie] Shalltear Bloodfallen.png",
         "grade": "ssr",
@@ -2018,6 +2053,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Urek Mazino [Free Spirit]",
+        "images": "./assets/images/[Free Spirit] Urek Mazino.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "speed"
+    },
+    {
         "name": "Valenti Weapon Researcher [Earthshaker]",
         "images": "./assets/images/[Earthshaker] Weapon Researcher Valenti.png",
         "grade": "ssr",
@@ -2072,6 +2114,13 @@
         "grade": "sr",
         "race": "human",
         "attribute": "speed"
+    },
+    {
+        "name": "Yihwa Yeon [Red Flame Princess]",
+        "images": "./assets/images/[Red Flame Princess] Yihwa Yeon.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "strength"
     },
     {
         "name": "Yuri Ha Zahard [Princess of Zahard]",
