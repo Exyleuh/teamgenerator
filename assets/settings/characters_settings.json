@@ -21,6 +21,13 @@
         "attribute": "hp"
     },
     {
+        "name": "First Member Alpha [Shadow Garden]",
+        "images": "./assets/images/AlphaBleu.png",
+        "grade": "ssr",
+        "race": "fairy",
+        "attribute": "speed"
+    },
+    {
         "name": "Anghalhad Brave Girl [A New Adventure]",
         "images": "./assets/images/[A New Adventure] Brave Girl Anghalhad.png",
         "grade": "ssr",
@@ -180,6 +187,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "strength"
+    },
+    {
+        "name": "Second Member Beta [Shadow Garden]",
+        "images": "./assets/images/BetaBleu.png",
+        "grade": "ssr",
+        "race": "fairy",
+        "attribute": "speed"
     },
     {
         "name": "Brunhild Princess [Guardian of Battlefield]",
@@ -1941,6 +1955,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Leader Shadow [The Eminence in Shadow]",
+        "images": "./assets/images/ShadowVert.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
+    },
+    {
         "name": "Simon Holy Knight [Roars of Dawn]",
         "images": "./assets/images/[Roars of Dawn] Holy Knight Simon.png",
         "grade": "r",
@@ -2051,6 +2072,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "strength"
+    },
+    {
+        "name": "Tyr God of War [Fiery Youth]",
+        "images": "./assets/images/TyrVert.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
     },
     {
         "name": "Urek Mazino [Free Spirit]",
