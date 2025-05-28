@@ -204,7 +204,7 @@
     },
     {
         "name": "Brunhild Princess [Bride of the Snow Country]",
-        "images": "./assets/images/[Bride of the Snow Country] Princess Brunhild.png",
+        "images": "./assets/images/BruneLr.png",
         "grade": "ssr",
         "race": "human",
         "attribute": "strength"
@@ -1218,6 +1218,13 @@
         "attribute": "strength"
     },
     {
+        "name": "King & Diane [Rulers of the New Era]",
+        "images": "./assets/images/Kiane.png",
+        "grade": "ur",
+        "race": "fairy-giant",
+        "attribute": "speed"
+    },
+    {
         "name": "King Fart [Disaster Old]",
         "images": "./assets/images/[Disaster Old] Fart King.png",
         "grade": "ssr",
@@ -2058,6 +2065,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "speed"
+    },
+        {
+        "name": "Tristan Prince [Holy Knight Aspirant]",
+        "images": "./assets/images/TristanVert.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
     },
     {
         "name": "Twigo Apprentice Holy Knight [Confirmation]",
